@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test..md",
+            "file": "Languages/C++/C++ Glossary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test..md",
+                "file": "Languages/C++/C++ Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,10 @@
   },
   "active": "570925878644e19d",
   "lastOpenFiles": [
+    "Languages/C++/C++ Glossary.md",
+    "Languages/C++/Workings of g++/sketch.md",
+    "Languages/Assembly/Untitled.md",
+    "Languages/C++/Workings of g++/img/Flowchart of C++ compilation.png",
     "Test..md"
   ]
 }
